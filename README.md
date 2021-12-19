@@ -2,7 +2,7 @@
 
 # Meluz Sensor Component
 
-![logo.jpg](logo.png)
+![logo.jpg](meliuz.png)
 
 Componente customizado para obter informações presentes no [meliuz.com.br](https://www.meliuz.com.br) para o home assistant.
 
