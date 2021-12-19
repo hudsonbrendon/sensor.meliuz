@@ -25,8 +25,8 @@ Componente customizado para obter informações presentes no [meliuz.com.br](htt
 
 ```yaml
 - platform: meliuz
-    name: seu-nome
-    token: seu-token
+  name: seu-nome
+  token: seu-token
 ```
 
 # Debugando
