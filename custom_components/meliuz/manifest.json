@@ -1,0 +1,10 @@
+{
+  "domain": "meliuz",
+  "name": "Meliuz",
+  "version": "0.0.1",
+  "documentation": "https://github.com/hudsonbrendon/sensor.meliuz",
+  "dependencies": [],
+  "codeowners": ["@hudsonbrendon"],
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
